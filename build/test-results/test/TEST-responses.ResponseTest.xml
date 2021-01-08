@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="responses.ResponseTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-08T15:00:48" hostname="ADAJ-L" time="0.006">
+  <properties/>
+  <testcase name="testResourceNotFound" classname="responses.ResponseTest" time="0.004"/>
+  <testcase name="testHtmlMimeTypeResponseWithCorrectResource" classname="responses.ResponseTest" time="0.0"/>
+  <testcase name="testInvalidRequestStatusCode" classname="responses.ResponseTest" time="0.0"/>
+  <testcase name="testCorrectStatusCodeResponse" classname="responses.ResponseTest" time="0.0"/>
+  <testcase name="testNotFoundStatusCodeResponseWithCorrectResource" classname="responses.ResponseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
