@@ -1,6 +1,5 @@
 package requests;
 
-import exceptions.MethodParseError;
 import java.util.StringTokenizer;
 
 public class RequestFactory {

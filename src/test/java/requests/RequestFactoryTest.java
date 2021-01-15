@@ -1,7 +1,5 @@
 package requests;
-
-import org.junit.Before;
-import static org.hamcrest.CoreMatchers.instanceOf;
+;
 
 import static org.junit.Assert.*;
 
